@@ -17,15 +17,27 @@
   </table>
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/design/profile-readme/profile-section-divider.svg" alt="Divisor de seção" width="100%" />
+</p>
+
 ## Sobre mim
 
 Construo soluções com automação, integrações e ferramentas open source. Gosto de transformar ideias em projetos práticos, aprender enquanto desenvolvo e documentar o caminho.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/design/profile-readme/profile-section-divider.svg" alt="Divisor de seção" width="100%" />
+</p>
 
 ## Projetos selecionados
 
 - **[chatbot](https://github.com/Gabriel-Bassani-da-Silva/chatbot)** — projeto com foco em conversa, automação e organização de uma base de conhecimento.
 - **Workflows** — experimentos e integrações para conectar ferramentas e reduzir tarefas repetitivas.
 - **Estudos** — repositórios e anotações que registram aprendizados em tecnologia da informação.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/design/profile-readme/profile-section-divider.svg" alt="Divisor de seção" width="100%" />
+</p>
 
 ## Ferramentas
 
@@ -44,6 +56,10 @@ Construo soluções com automação, integrações e ferramentas open source. Go
   <img height="46" width="46" alt="n8n" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/design/profile-readme/profile-section-divider.svg" alt="Divisor de seção" width="100%" />
+</p>
+
 ## Contribuições
 
 <div align="center">
@@ -51,15 +67,5 @@ Construo soluções com automação, integrações e ferramentas open source. Go
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake.svg" />
     <img alt="Animação Snake das contribuições" src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FEITO%20COM-CURIOSIDADE-F4EAD8?style=for-the-badge&labelColor=A7353F" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FEITO%20COM-CURIOSIDADE-A7353F?style=for-the-badge&labelColor=123B58" />
-    <img src="https://img.shields.io/badge/FEITO%20COM-CURIOSIDADE-A7353F?style=for-the-badge&labelColor=123B58" alt="Feito com curiosidade" />
   </picture>
 </div>
