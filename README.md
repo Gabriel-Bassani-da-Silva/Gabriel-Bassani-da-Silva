@@ -1,71 +1,36 @@
 <div align="center">
-  <table>
-    <tr>
-      <td width="58%" valign="middle">
-        <h1>Olá, eu sou o Gabriel!</h1>
-        <p><strong>Estudante de Tecnologia da Informação</strong></p>
-        <p>Explorando automação, desenvolvimento e projetos open source com curiosidade e criatividade.</p>
-        <p>
-          <a href="https://github.com/Gabriel-Bassani-da-Silva">GitHub</a> ·
-          <a href="https://github.com/Gabriel-Bassani-da-Silva/chatbot">Projeto chatbot</a>
-        </p>
-      </td>
-      <td width="42%" align="center">
-        <img src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/design/profile-readme/profile-avatar-circle.png" alt="Retrato ilustrado de Gabriel Bassani" width="280" />
-      </td>
-    </tr>
-  </table>
+
+  <img src="./assets/header.svg" alt="Gabriel Bassani" width="100%" />
+
+  <h3>Big Data &amp; Inteligência Artificial • Arquitetura de Sistemas &amp; Automação</h3>
+
+  <p>
+    <a href="https://github.com/Gabriel-Bassani-da-Silva" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-E5A93C?style=for-the-badge&amp;logo=github&amp;logoColor=1A1817&amp;labelColor=1A1817" alt="GitHub" />
+    </a>
+  </p>
+
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/design/profile-readme/profile-section-divider.svg" alt="Divisor de seção" width="100%" />
-</p>
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## Sobre mim
+- **Formação Acadêmica:** Tecnologia em Big Data e Inteligência Artificial (*Fatec*).
 
-Construo soluções com automação, integrações e ferramentas open source. Gosto de transformar ideias em projetos práticos, aprender enquanto desenvolvo e documentar o caminho.
+  **IA, Dados &amp; Backend**  
+  ![Python](https://img.shields.io/badge/Python-E5A93C?style=for-the-badge&amp;logo=python&amp;logoColor=1A1817&amp;labelColor=1A1817)
+  ![Ollama](https://img.shields.io/badge/Ollama_%2F_LLMs-D9381E?style=for-the-badge&amp;logo=meta&amp;logoColor=F4EAD5&amp;labelColor=1A1817)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E6B9B?style=for-the-badge&amp;logo=postgresql&amp;logoColor=F4EAD5&amp;labelColor=1A1817)
+  ![Redis](https://img.shields.io/badge/Redis-D9381E?style=for-the-badge&amp;logo=redis&amp;logoColor=F4EAD5&amp;labelColor=1A1817)
+  ![Prolog](https://img.shields.io/badge/Prolog-1E6B9B?style=for-the-badge&amp;logo=gnu&amp;logoColor=F4EAD5&amp;labelColor=1A1817)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/design/profile-readme/profile-section-divider.svg" alt="Divisor de seção" width="100%" />
-</p>
+  **Automação, Integrações &amp; Infraestrutura**  
+  ![n8n](https://img.shields.io/badge/n8n-D9381E?style=for-the-badge&amp;logo=n8n&amp;logoColor=F4EAD5&amp;labelColor=1A1817)
+  ![Docker](https://img.shields.io/badge/Docker_Compose-1E6B9B?style=for-the-badge&amp;logo=docker&amp;logoColor=F4EAD5&amp;labelColor=1A1817)
+  ![Linux](https://img.shields.io/badge/Linux-E5A93C?style=for-the-badge&amp;logo=linux&amp;logoColor=1A1817&amp;labelColor=1A1817)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnels-E5A93C?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=1A1817&amp;labelColor=1A1817)
+  ![REST APIs](https://img.shields.io/badge/REST_APIs_%26_Webhooks-1E6B9B?style=for-the-badge&amp;logo=fastapi&amp;logoColor=F4EAD5&amp;labelColor=1A1817)
 
-## Projetos selecionados
-
-- **[chatbot](https://github.com/Gabriel-Bassani-da-Silva/chatbot)** — projeto com foco em conversa, automação e organização de uma base de conhecimento.
-- **Workflows** — experimentos e integrações para conectar ferramentas e reduzir tarefas repetitivas.
-- **Estudos** — repositórios e anotações que registram aprendizados em tecnologia da informação.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/design/profile-readme/profile-section-divider.svg" alt="Divisor de seção" width="100%" />
-</p>
-
-## Ferramentas
-
-<div align="center">
-  <img height="46" width="46" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img height="46" width="46" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img height="46" width="46" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img height="46" width="46" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img height="46" width="46" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img height="46" width="46" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/F4EAD8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/17181A" />
-    <img height="46" width="46" alt="GitHub" src="https://cdn.simpleicons.org/github/17181A" />
-  </picture>
-  <img height="46" width="46" alt="n8n" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/design/profile-readme/profile-section-divider.svg" alt="Divisor de seção" width="100%" />
-</p>
-
-## Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake.svg" />
-    <img alt="Animação Snake das contribuições" src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
+  **BI, Planilhas &amp; Versionamento**  
+  ![Google Apps Script](https://img.shields.io/badge/Apps_Script-E5A93C?style=for-the-badge&amp;logo=google&amp;logoColor=1A1817&amp;labelColor=1A1817)
+  ![BI &amp; Dashboards](https://img.shields.io/badge/Dashboards_%26_BI-1E6B9B?style=for-the-badge&amp;logo=googlesheets&amp;logoColor=F4EAD5&amp;labelColor=1A1817)
+  ![Git](https://img.shields.io/badge/Git_%26_GitHub-D9381E?style=for-the-badge&amp;logo=git&amp;logoColor=F4EAD5&amp;labelColor=1A1817)
