@@ -59,7 +59,11 @@ Construo soluções com automação, integrações e ferramentas open source. Go
   <img height="46" width="46" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img height="46" width="46" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img height="46" width="46" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img height="46" width="46" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/F4EAD8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/17181A" />
+    <img height="46" width="46" alt="GitHub" src="https://cdn.simpleicons.org/github/17181A" />
+  </picture>
 </div>
 
 <p align="center">
