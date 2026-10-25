@@ -32,12 +32,11 @@ Atuo na arquitetura de integrações, automação de processos e engenharia de d
 
 **IA, Dados & Backend**  
 ![Python](https://img.shields.io/badge/Python-E5A93C?style=for-the-badge&logo=python&logoColor=1A1817&labelColor=1A1817)
-![Ollama](https://img.shields.io/badge/Ollama_%2F_LLMs-D9381E?style=for-the-badge&logo=meta&logoColor=F4EAD5&labelColor=1A1817)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1A1817&labelColor=1A1817)
+![Ollama](https://img.shields.io/badge/Ollama_%2F_LLMs-D9381E?style=for-the-badge&logo=ollama&logoColor=F4EAD5&labelColor=1A1817)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E6B9B?style=for-the-badge&logo=postgresql&logoColor=F4EAD5&labelColor=1A1817)
 ![Redis](https://img.shields.io/badge/Redis-D9381E?style=for-the-badge&logo=redis&logoColor=F4EAD5&labelColor=1A1817)
-![Prolog](https://img.shields.io/badge/Prolog-1E6B9B?style=for-the-badge&logo=gnu&logoColor=F4EAD5&labelColor=1A1817)
 
 **Automação, Integrações & Infraestrutura**  
 ![n8n](https://img.shields.io/badge/n8n-D9381E?style=for-the-badge&logo=n8n&logoColor=F4EAD5&labelColor=1A1817)
-![Docker](https://img.shields.io/badge/Docker_Compose-1E6B9B?style=for-the-badge&logo=docker&logoColor=F4EAD5&labelColor=1A1817)
-!
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E6B9B?style=for-the-badge&logo=docker&logoColor=F4EAD5&labelColor=1A1817)
