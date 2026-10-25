@@ -1,4 +1,12 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:123B58,50:1D4F73,100:A7353F&height=220&section=header&text=Gabriel%20Bassani&fontColor=F4EAD8&fontSize=44&fontAlignY=35&desc=Estudante%20de%20TI%20%7C%20Automacao%20e%20desenvolvimento&descAlignY=58&descSize=17" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF2,50:F4EAD8,100:E0AD35&height=220&section=header&text=Gabriel%20Bassani&fontColor=123B58&fontSize=44&fontAlignY=35&desc=Estudante%20de%20TI%20%7C%20Automacao%20e%20desenvolvimento&descAlignY=58&descSize=17" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF2,50:F4EAD8,100:E0AD35&height=220&section=header&text=Gabriel%20Bassani&fontColor=123B58&fontSize=44&fontAlignY=35&desc=Estudante%20de%20TI%20%7C%20Automacao%20e%20desenvolvimento&descAlignY=58&descSize=17" alt="Banner de Gabriel Bassani" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td width="58%" valign="middle">
@@ -20,8 +28,16 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GITHUB-GABRIEL--BASSANI-123B58?style=for-the-badge&logo=github&logoColor=F4EAD8" alt="GitHub" />
-  <img src="https://img.shields.io/badge/STATUS-ESTUDANTE%20DE%20TI-A7353F?style=for-the-badge&logoColor=F4EAD8" alt="Estudante de TI" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-GABRIEL--BASSANI-F4EAD8?style=for-the-badge&logo=github&logoColor=123B58" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GITHUB-GABRIEL--BASSANI-123B58?style=for-the-badge&logo=github&logoColor=F4EAD8" />
+    <img src="https://img.shields.io/badge/GITHUB-GABRIEL--BASSANI-123B58?style=for-the-badge&logo=github&logoColor=F4EAD8" alt="GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STATUS-ESTUDANTE%20DE%20TI-FFB4B4?style=for-the-badge&logoColor=123B58" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/STATUS-ESTUDANTE%20DE%20TI-A7353F?style=for-the-badge&logoColor=F4EAD8" />
+    <img src="https://img.shields.io/badge/STATUS-ESTUDANTE%20DE%20TI-A7353F?style=for-the-badge&logoColor=F4EAD8" alt="Estudante de TI" />
+  </picture>
 </div>
 
 ## Sobre mim
@@ -53,11 +69,13 @@ Construo soluções com automação, integrações e ferramentas open source. Go
 
 ## Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake.svg" />
-  <img alt="Animação Snake das contribuições" src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake.svg" />
+    <img alt="Animação Snake das contribuições" src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
 
 <div align="center">
   <sub>Atualizada automaticamente pelo GitHub Actions.</sub>
@@ -66,5 +84,9 @@ Construo soluções com automação, integrações e ferramentas open source. Go
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/FEITO%20COM-CURIOSIDADE-A7353F?style=for-the-badge&labelColor=123B58&logoColor=F4EAD8" alt="Feito com curiosidade" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FEITO%20COM-CURIOSIDADE-F4EAD8?style=for-the-badge&labelColor=A7353F" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FEITO%20COM-CURIOSIDADE-A7353F?style=for-the-badge&labelColor=123B58" />
+    <img src="https://img.shields.io/badge/FEITO%20COM-CURIOSIDADE-A7353F?style=for-the-badge&labelColor=123B58" alt="Feito com curiosidade" />
+  </picture>
 </div>
