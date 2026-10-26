@@ -22,7 +22,7 @@
 Atuo na arquitetura de integrações, automação de processos e engenharia de dados, conectando ERPs, CRMs, plataformas de e-commerce e modelos de Inteligência Artificial em operações escaláveis.
 
 - **Formação Acadêmica:** Tecnologia em Big Data e Inteligência Artificial (*Fatec*).
-- **Integrações & Automação:** Orquestração de workflows, auditoria de catálogos, sincronização de dados entre sistemas (ERP, SFA, e-commerce, CRM) e pipelines de BI executivo.
+- **Integrações & Automação:** Já atuei realizando integrações entre ERPs e CRMs, automatizando fluxos e sincronizando dados entre sistemas.
 - **Inteligência Artificial Aplicada:** Desenvolvimento de agentes autônomos e automação de atendimento utilizando LLMs locais e via API.
 - **Infraestrutura Self-Hosted:** Provisionamento e gerenciamento de serviços em containers via Docker Compose em ambientes Linux.
 
