@@ -40,3 +40,10 @@ Atuo na arquitetura de integrações, automação de processos e engenharia de d
 **Automação, Integrações & Infraestrutura**  
 ![n8n](https://img.shields.io/badge/n8n-D9381E?style=for-the-badge&logo=n8n&logoColor=F4EAD5&labelColor=1A1817)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E6B9B?style=for-the-badge&logo=docker&logoColor=F4EAD5&labelColor=1A1817)
+
+**Frontend & Ferramentas**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=F4EAD5&labelColor=1A1817)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=F4EAD5&labelColor=1A1817)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=F4EAD5&labelColor=1A1817)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=F4EAD5&labelColor=1A1817)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F4EAD5&labelColor=1A1817)
