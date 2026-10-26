@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%" height="100%">
+  <defs>
+    <style>
+      .name-text {
+        font-family: Impact, 'Arial Black', 'Trebuchet MS', sans-serif;
+        font-weight: 900;
+        font-size: 72px;
+        text-anchor: middle;
+        letter-spacing: 5px;
+        paint-order: stroke fill;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <rect x="18" y="18" width="868" height="148" rx="10" fill="#1A1817" stroke="#F4EAD5" stroke-width="2"/>
+  <rect x="10" y="10" width="868" height="148" rx="10" fill="#F4EAD5" stroke="#1A1817" stroke-width="4.5"/>
+  <rect x="20" y="20" width="848" height="128" rx="6" fill="none" stroke="#1A1817" stroke-width="1.5"/>
+  <text x="450" y="116" class="name-text" fill="#1A1817" stroke="#1A1817" stroke-width="12">GABRIEL BASSANI</text>
+  <text x="444" y="110" class="name-text" fill="#D9381E" stroke="#1A1817" stroke-width="11">GABRIEL BASSANI</text>
+  <text x="442.5" y="108.5" class="name-text" fill="none" stroke="#F4EAD5" stroke-width="1.5" opacity="0.85">GABRIEL BASSANI</text>
+</svg>
