@@ -24,7 +24,7 @@ Atuo na arquitetura de integrações, automação de processos e engenharia de d
 - **Formação Acadêmica:** Tecnologia em Big Data e Inteligência Artificial (*Fatec*).
 - **Integrações & Automação:** Já atuei realizando integrações entre ERPs e CRMs, automatizando fluxos e sincronizando dados entre sistemas.
 - **Inteligência Artificial Aplicada:** Desenvolvimento de agentes autônomos e automação de atendimento utilizando LLMs locais e via API.
-- **Infraestrutura Self-Hosted:** Provisionamento e gerenciamento de serviços em containers via Docker Compose em ambientes Linux.
+- **Infraestrutura Self-Hosted:** Provisionamento e gerenciamento de serviços em containers via Docker Compose em ambientes Windows.
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
@@ -47,3 +47,13 @@ Atuo na arquitetura de integrações, automação de processos e engenharia de d
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=F4EAD5&labelColor=1A1817)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=F4EAD5&labelColor=1A1817)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F4EAD5&labelColor=1A1817)
+
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Gabriel-Bassani-da-Silva/Gabriel-Bassani-da-Silva/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
