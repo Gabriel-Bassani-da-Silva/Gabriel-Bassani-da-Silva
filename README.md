@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-1E6B9B?style=for-the-badge&logo=linkedin&logoColor=F4EAD5&labelColor=1A1817" alt="LinkedIn" />
     </a>
     <a href="https://github.com/Gabriel-Bassani-da-Silva" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-E5A93C?style=for-the-badge&logo=github&logoColor=1A1817&labelColor=1A1817" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-E5A93C?style=for-the-badge&logo=github&logoColor=F4EAD5&labelColor=1A1817" alt="GitHub" />
     </a>
   </p>
 
@@ -31,8 +31,8 @@ Atuo na arquitetura de integrações, automação de processos e engenharia de d
 ## Stack Tecnológica
 
 **IA, Dados & Backend**  
-![Python](https://img.shields.io/badge/Python-E5A93C?style=for-the-badge&logo=python&logoColor=1A1817&labelColor=1A1817)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1A1817&labelColor=1A1817)
+![Python](https://img.shields.io/badge/Python-E5A93C?style=for-the-badge&logo=python&logoColor=F4EAD5&labelColor=1A1817)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F4EAD5&labelColor=1A1817)
 ![Ollama](https://img.shields.io/badge/Ollama_%2F_LLMs-D9381E?style=for-the-badge&logo=ollama&logoColor=F4EAD5&labelColor=1A1817)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E6B9B?style=for-the-badge&logo=postgresql&logoColor=F4EAD5&labelColor=1A1817)
 ![Redis](https://img.shields.io/badge/Redis-D9381E?style=for-the-badge&logo=redis&logoColor=F4EAD5&labelColor=1A1817)
